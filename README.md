@@ -1,2 +1,2 @@
-# doctigo-ai-booking
-debo booking app
+# BOOKING_WITH_AI
+ITS JUST A DEMO RUN
