@@ -1,3 +1,6 @@
+# from /workspaces/doctigo-ai-booking
+cp -f package.json package.json.bak 2>/dev/null || true
+
 cat > package.json <<'EOF'
 {
   "name": "doctigo-ai-booking",
